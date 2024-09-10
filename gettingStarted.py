@@ -15,12 +15,9 @@ def welcome_assignment_answers(question):
         answer = "yes"
     elif question == "Are encoding and encryption the same? - Yes/No":
         answer = "no"
-    elif question == ""What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
+    elif question == "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
           answer = int(7)
 
-
-
-    
     else: 
         ### you should understand why this else case should be included
         ### what happens if there is a typo in one of the questions?
