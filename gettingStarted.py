@@ -20,6 +20,10 @@ def welcome_assignment_answers(question):
           answer = "no"
     elif question == "What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
         answer = "65e18f06ef765baf68a14fd3bd07163282b27b4cd93fb85515a03263d6d2fed9"
+    elif question == "Is it possible to decode a message without a key? - Yes/No":
+        answer = "Yes"
+    elif question == "In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
+        answer = "Yes"
           
 
     else: 
