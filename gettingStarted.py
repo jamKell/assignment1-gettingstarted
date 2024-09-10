@@ -18,6 +18,8 @@ def welcome_assignment_answers(question):
           answer = "no"
     elif question == "Is a hashed message supposed to be un-hashed? - Yes/No":
           answer = "no"
+    elif question == "What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
+        answer = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOFSI1fxwWpBxOs1bEYrRI71r27nJOuHS1323ZeKW37c jak9425@nyu.edu"
           
 
     else: 
